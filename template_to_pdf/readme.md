@@ -1,4 +1,4 @@
-# Template-to-PDFs
+# 📝 Template-to-PDFs
 
 💡 This is the Apps Script module for generating PDF files from a Google Docs template and retrieving values in order from a Google Sheet.
 
