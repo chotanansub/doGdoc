@@ -10,20 +10,20 @@
 ## Demo
 
 ### Template: 
-<img src="assets/sample-docs-template.png" alt="cover" width="800" height="400" />
+<img src="assets/sample-docs-template.png" alt="cover" width="400" />
 
 ---
 
 ### Data: 
-<img src="assets/sample-data-sheet.png" alt="cover" width="800" height="300" />
+<img src="assets/sample-data-sheet.png" alt="cover" width="300" />
 
 ---
 
 ### Output: 
 
-<img src="assets/sample-pdf-output.png" alt="cover" width="800" height="400" />
+<img src="assets/sample-pdf-output.png" alt="cover" width="400" />
 
-<img src="assets/sample-drive-list.png" alt="cover" width="800" height="250" />
+<img src="assets/sample-drive-list.png" alt="cover" width="250" />
 
 
 ## Credit
