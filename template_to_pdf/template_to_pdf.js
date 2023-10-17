@@ -8,7 +8,7 @@ function generatePDFsFromTemplate(docFileId, tempFolderId, pdfFolderId, sheetNam
       Logger.log(`❌ Sheet "${sheetName}" not found.`);
       return;
   }
-
+    // getRange(start row, start column, row range, column range)
     const data = currentSheet.getRange(2, 1, currentSheet.getLastRow() - 1, placeholders.length).getValues();
 
   data.forEach(row => {
